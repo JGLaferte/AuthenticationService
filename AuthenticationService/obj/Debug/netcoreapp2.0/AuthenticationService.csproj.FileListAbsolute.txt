@@ -1,0 +1,11 @@
+C:\Project\AuthenticationService\AuthenticationService\bin\Debug\netcoreapp2.0\AuthenticationService.deps.json
+C:\Project\AuthenticationService\AuthenticationService\bin\Debug\netcoreapp2.0\AuthenticationService.runtimeconfig.json
+C:\Project\AuthenticationService\AuthenticationService\bin\Debug\netcoreapp2.0\AuthenticationService.runtimeconfig.dev.json
+C:\Project\AuthenticationService\AuthenticationService\bin\Debug\netcoreapp2.0\AuthenticationService.dll
+C:\Project\AuthenticationService\AuthenticationService\bin\Debug\netcoreapp2.0\AuthenticationService.pdb
+C:\Project\AuthenticationService\AuthenticationService\obj\Debug\netcoreapp2.0\AuthenticationService.csprojAssemblyReference.cache
+C:\Project\AuthenticationService\AuthenticationService\obj\Debug\netcoreapp2.0\AuthenticationService.csproj.CoreCompileInputs.cache
+C:\Project\AuthenticationService\AuthenticationService\obj\Debug\netcoreapp2.0\AuthenticationService.AssemblyInfoInputs.cache
+C:\Project\AuthenticationService\AuthenticationService\obj\Debug\netcoreapp2.0\AuthenticationService.AssemblyInfo.cs
+C:\Project\AuthenticationService\AuthenticationService\obj\Debug\netcoreapp2.0\AuthenticationService.dll
+C:\Project\AuthenticationService\AuthenticationService\obj\Debug\netcoreapp2.0\AuthenticationService.pdb
